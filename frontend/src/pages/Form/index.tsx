@@ -7,7 +7,7 @@ function Form() {
         image: "https://1.bp.blogspot.com/-z1ao0--og0o/YVfX4oXV-OI/AAAAAAAAZx8/TiOcufm-2GIu4W9C1lowKJCcCdltPOSZwCNcBGAsYHQ/s2048/kimetsu-temporada-2-poster_5jqw.jpg",
         title: "Demon Slayer: Kimetsu no Yaiba",
         count: 2,
-        score: 4.5
+        score: 4.7
     };
 
     return (
