@@ -1,5 +1,6 @@
 import { ReactComponent as GithubIcon } from 'assents/img/github.svg';
 import { ReactComponent as TrendyProIcon } from 'assents/img/TrendyPro.svg';
+import { Link } from 'react-router-dom';
 import './styles.css';
 
 function Navbar() {
@@ -7,10 +8,12 @@ function Navbar() {
         <header>
             <nav className="containar">
                 <div className="dsmovies-nav-content">
-                    <h1>
-                        <TrendyProIcon />
-                        TrendyPro
-                    </h1>
+                    <Link to="/">
+                        <h1>
+                            <TrendyProIcon />
+                            TrendyPro
+                        </h1>
+                    </Link>
                     <a href="https://github.com/Luccas-Silva">
                         <div className="dsmovies-contact-container">
                             <GithubIcon />
