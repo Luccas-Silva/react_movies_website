@@ -13,7 +13,7 @@
 	<artifactId>dsMovies</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dsMovies</name>
-	<description>Project Spring/React</description>
+	<description>Project  Spring React</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
