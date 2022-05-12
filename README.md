@@ -1,4 +1,4 @@
-## Movies WebSite
+# Movies WebSite
 - O projeto consiste em criar um catálogo de filmes com método de avaliação. 
 - Front end com React e componentes com HTML e CSS.
 - Back end com Java, Spring Boot e Banco de dados.
