@@ -18,6 +18,12 @@
     color: #4A4A4A;
 }
 
+.dsmovie-form-group option {
+    font-size: 15px;
+    font-weight: 700;
+    color: #4A4A4A;
+}
+
 .dsmovie-form-btn-container {
     display: flex;
     justify-content: center;
