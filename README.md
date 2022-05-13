@@ -15,12 +15,12 @@ https://www.figma.com/proto/Yq71lAahqYg3F6JlAnKU4G/Untitled?node-id=3%3A24&scali
 ## Modelo conceitual
 
 <div align="center">
-  <img height="250em" src="https://cdn.discordapp.com/attachments/896196228000391218/974677989822431242/dsmovie-dominio.png"/
+  <img height="200em" src="https://cdn.discordapp.com/attachments/896196228000391218/974677989822431242/dsmovie-dominio.png"/>
 </div>
 
 ## Padrão de camadas adotado
   
 <div align="center">
-  <img height="250em" src="https://cdn.discordapp.com/attachments/896196228000391218/974679242216452106/padrao-camadas.png"/
+  <img height="350em" src="https://cdn.discordapp.com/attachments/896196228000391218/974679242216452106/padrao-camadas.png"/>
 </div>
 
