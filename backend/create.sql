@@ -18,4 +18,10 @@ INSERT INTO tb_movie(score, count, title, image) VALUES (4.7, 0, 'My Hero Academ
 INSERT INTO tb_movie(score, count, title, image) VALUES (4.9, 0, 'Vingadores: Ultimato', 'https://observatoriodocinema.uol.com.br/wp-content/uploads/2022/03/endgame.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (3.7, 0, 'JoJo´s Bizarre Adventure', 'https://img1.ak.crunchyroll.com/i/spire3/04b29833ccaaf2ee6bda1d08f2f02ecf1539039197_full.jpg');
 INSERT INTO tb_movie(score, count, title, image) VALUES (0, 0, 'Dr. STONE', 'https://img1.ak.crunchyroll.com/i/spire3/a2afe488cbf6448cda89eb8f87852aec1610654741_full.jpg');
-
+INSERT INTO tb_movie(score, count, title, image) VALUES (5, 0, 'One-Punch Man', 'https://img1.ak.crunchyroll.com/i/spire2/486f88e5889422c72ab7b12a58f794721554828665_full.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (5, 0, 'Peaky Blinders', 'https://cdn.awsli.com.br/1000x1000/1206/1206083/produto/108596433/804244d6b8.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (4, 0, 'What If...?', 'https://streamingsbrasil.com/wp-content/uploads/2021/10/What-If-2-Banner.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (4.9, 0, 'Arcane', 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQw9ZZQVJqnze9k8r6c5xUeFSc9iBNtiY2nuQd_N1qWAQ6javhR');
+INSERT INTO tb_movie(score, count, title, image) VALUES (4.5, 0, 'Hora de Aventura', 'https://br.web.img3.acsta.net/pictures/14/04/22/09/03/422873.jpg');
+INSERT INTO tb_movie(score, count, title, image) VALUES (3.7, 0, 'O Príncipe Dragão', 'https://static.wikia.nocookie.net/o-principe-dragao/images/e/ea/O_Pr%C3%ADncipe_Drag%C3%A3o.jpeg/revision/latest?cb=20200719210854&path-prefix=pt-br');
+INSERT INTO tb_movie(score, count, title, image) VALUES (5, 0, 'Invencível', 'https://pbs.twimg.com/media/ExacfM3WQAQ9P7s?format=jpg&name=large');
