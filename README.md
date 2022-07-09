@@ -1,4 +1,11 @@
-# Movies WebSite
+<div className="Movies-WebSite">
+  <h1>
+    <img align="center" alt="java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"/>
+    Movies WebSite
+    <img align="center" alt="react" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+  </h1>
+</div>
+
 - O projeto consiste em criar um catálogo de filmes com método de avaliação. 
 - Front end com React e componentes com HTML e CSS.
 - Back end com Java, Spring Boot e Banco de dados.
