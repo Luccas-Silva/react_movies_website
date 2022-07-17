@@ -10,7 +10,7 @@
 - FrontEnd com React e componentes com HTML e CSS.
 - BackEnd com Java, Spring Boot e Banco de dados.
 ### *Link do Site:* https://luccaos-my-movies.netlify.app/
-    
+
 ## Design do Site
 <div align="center">
   <img height="400em" src="https://user-images.githubusercontent.com/89430801/175829093-69c048bf-b2fa-45cd-b964-a5cd2811b527.svg"/>
