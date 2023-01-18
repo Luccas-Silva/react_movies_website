@@ -9,7 +9,6 @@
 - O projeto consiste em criar um catálogo de filmes com método de avaliação. 
 - FrontEnd com React e componentes com HTML e CSS.
 - BackEnd com Java, Spring Boot e Banco de dados.
-### *Link do Site:* https://luccaos-my-movies.netlify.app/
 
 ## Design do Site
 <div align="center">
